@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/kimjun/Documents/mywork/ML lec/model/model.ckpt"
+all_model_checkpoint_paths: "/Users/kimjun/Documents/mywork/ML lec/model/model.ckpt"
